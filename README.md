@@ -21,3 +21,6 @@ Before you begin, make sure you have the following installed:
 -  docker build -d -t mysql . <br>
 // run Mysql
 -  docker run -d --name mysql --network two-tier -e  MYSQL_ROOT-PASSWORD=root -e MYSQL_DATABASE=devops mysql <br>
+// Open the database
+- docker exec -it <container_name> bash
+- bash-5.1# mysql -u root -p
