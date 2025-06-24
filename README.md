@@ -24,3 +24,5 @@ Before you begin, make sure you have the following installed:
 // Open the database
 - docker exec -it <container_name> bash
 - bash-5.1# mysql -u root -p
+![Screenshot 2025-06-21 213842](https://github.com/user-attachments/assets/022b8053-1862-4dcb-b685-aebf527d1848)
+![Screenshot 2025-06-21 221733](https://github.com/user-attachments/assets/065f31fa-81db-4e35-aa3e-34eada379e8a)
